@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.mvn.spiceworks.NetworkingTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.mvn.spiceworks.NetworkingTest">
+        <methods>
+          <include name="afterClass"/>
+          <include name="setUp"/>
+          <include name="networkTabTest"/>
+        </methods>
+      </class> <!-- com.mvn.spiceworks.NetworkingTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.mvn.spiceworks.NetworkingTest] -->

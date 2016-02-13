@@ -1,0 +1,11 @@
+<suite name="Test Cases">
+	<test name="Firefox Test" preserve-order="true">
+		<classes>
+			<class name="com.mvn.spiceworks.NetworkingTest">
+				<methods>
+					<include name="networkTabTest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
